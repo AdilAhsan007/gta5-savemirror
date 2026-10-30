@@ -1,0 +1,2 @@
+This file tells gta5_savemirror.elf to back up to THIS drive.
+Add STOP.txt next to it to stop the payload, QUIET.txt to hide notifications.
